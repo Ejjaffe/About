@@ -1,2 +1,13 @@
 # About
-About me!
+I am fascinated by complex systems, machine learning, and intuitive design. 
+
+# Job
+At work, I apply machine learning solutions to mission-critical questions for my clients. These days, I am learning about CI/CD with Docker and Jenkins, creating mission-focused NLP applications for clients, and learning how to write better software tests with tools like [Hypothesis](https://hypothesis.readthedocs.io/en/latest/). In the past, I've focused more on using deep learning to solve hard digital signals processing & computer vision problems, such as RF fingerprinting and video super-resolution.  
+
+# Projects
+I don't treat projects like a professional portfolio -- They're an outlet for my curiosity and an excuse to learn to use exciting tools. That being said, I have a few long-running projects.
+* See my data projects on [Tableau Public](https://public.tableau.com/app/profile/elias.jaffe), such as the [vis with the interactive network graph](https://public.tableau.com/app/profile/elias.jaffe/viz/FlorentineFamilies/FlorentineFamiliesDash), and [filterable tables of plant species by state](https://public.tableau.com/app/profile/elias.jaffe/viz/PlantSpeciesTaxonomyByUSState/StateSpeciesDashboard).
+* I own two twitter bots, both currently inactive while I attempt to refine their internals and host them on dedicated Raspberry Pis. [GestaltLogos](https://twitter.com/GestaltLogos) is a project about refining political discourse into generic talking points. My big-picture goal is NLP-aided rhetorical analysis, but I am stuck on some of the finer details. For example, I am currently working on creating a dataset of talking point VS topical similarity of legislative tweets. I promised twitter I wouldn't share/rehost the tweets, so it cannot be found here :( . I have also experimented with word embeddings and "distance" "metrics" for these tweets, results which I can (and intend to) publish on Medium soon.
+* My other (currently inactive) twitter bot is [What Do I Tweet Bot](https://twitter.com/WhatDoITweetBot), which performs analysis of a user's own twitter content, including topic modeling and pattern of life analysis. I am currently building new skills for the bot (such as textual entailment) and improving the underlying [code](https://github.com/Ejjaffe/nlp-bot) so that it can run in a (relatively) asynchronous and robust manner. It used to run on my laptop and I am in the process of hosting it on a dedicated raspberry pi.
+* I have built several [streamlit dashboards](https://github.com/Ejjaffe/mT5-summarization-app), some of which inspired real NLP R&D projects at work.
+* 
