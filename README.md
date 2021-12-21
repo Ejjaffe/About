@@ -12,6 +12,8 @@ I don't treat projects like a professional portfolio -- They're an outlet for my
 * I have built several [streamlit dashboards](https://github.com/Ejjaffe/mT5-summarization-app), some of which inspired real NLP R&D projects at work.
 * I love working with open-source hardware and microelectronics! I have a tutorial on [how to create a functional motion-alert webcam](https://medium.com/@elijaffe173/guide-to-installing-and-using-motioneyeos-on-a-raspberry-pi-zero-w-from-scratch-9fa08d3146af) using roughly $50 worth of equipment. In the past, I've used ESP32 boards as habit tracker buttons and created roaming robots using one arduino uno and a Q-learning algorithm.
 
+Other projects usually end up on [my twitter](https://twitter.com/eliasjjaffe) if they look interesting!
+
 ## Education
 I have a bachelor's degree in mathematics from a small liberal arts college, McDaniel College in Westminster, MD. I liked the liberal arts environment because it allowed me to make connections between mathematics and other things I love, such as ceramics, music, writing, and political analysis. Some cool things I did:
 * I was a summer research fellow. I worked on a problem in fractal geometry, the mathematics of of measuring shapes with infinite detail. We presented our research on the fractal dimension of the [k-nacci word fractal](https://github.com/Ejjaffe/Knacci-Utils) many times, including at MAA's Mathfest 2016 and many McDaniel College research showcase events.
